@@ -1,0 +1,4 @@
+1743077824295:exit
+1743078332074:generator api --name minha-api --package com.pedro.api
+1743078371693:generator api --name minha-api --packageName com.pedro.api
+1743078390901:exit
